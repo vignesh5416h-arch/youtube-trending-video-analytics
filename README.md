@@ -18,7 +18,7 @@ Tools and Technologies
 - Python
 - Pandas and Matplotlib
 - SQLite
-- Tableau
+- Tableau https://public.tableau.com/app/profile/aleti.vignesh/vizzes
 - Jupyter Notebook
 
 Dataset
